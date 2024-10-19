@@ -30,8 +30,7 @@
               "RelativeToolTip": "ListaDeTarefas_Application\\Views\\Home\\Adicionar.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T21:12:21.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T21:12:21.31Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "ListaDeTarefas_Application\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\ListaDeTarefas_Application\\ListaDeTarefas_Application\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ListaDeTarefas_Application\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAswH0AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T19:58:04.323Z",
               "EditorCaption": ""
